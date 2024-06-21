@@ -105,6 +105,5 @@ dist
 
 # repo
 /pnpm-lock.yaml
-/lib
 /.nyc_output
 /coverage

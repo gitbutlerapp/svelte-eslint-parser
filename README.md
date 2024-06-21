@@ -1,5 +1,11 @@
 # svelte-eslint-parser
 
+This repository is a fork of svelte-eslint-parser with the `nested-snippet` branch checked out and the built files commited. We are making use of this temporarily while its still in the review process on their end. See the PR here: https://github.com/sveltejs/svelte-eslint-parser/pull/540
+
+A big thanks to the folks over there and the great work their doing.
+
+## Back to the regular README:
+
 [Svelte] parser for [ESLint].  
 You can check it on [Online DEMO](https://sveltejs.github.io/svelte-eslint-parser/playground).
 
